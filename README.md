@@ -1,1 +1,1 @@
-# Inventory_System-DesktopApp
+# Ultimate Inventory System in C#
